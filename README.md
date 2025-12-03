@@ -1,4 +1,4 @@
-# Carlos Luciano Vega  
+# Luciano Vega  
 ### Python Full Stack Developer | Industrial Automation Engineer | IoT Solutions  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/carlos-luciano-vega)  
